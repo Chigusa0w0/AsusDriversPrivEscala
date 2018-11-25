@@ -80,14 +80,19 @@ However, even on a non-ASUS computer, IOCTL 0x9C40C008 will still work, but the 
 # IoC
 
 driver7.sys (x64) SHA256: 771A8D05F1AF6214E0EF0886662BE500EE910AB99F0154227067FDDCFE08A3DD
+
 driver7.sys (x86 with DbgPrint) SHA256: 927C2A580D51A598177FA54C65E9D2610F5F212F1B6CB2FBF2740B64368F010A
+
 driver7.sys (x86 without DbgPrint) SHA256: 42851A01469BA97CDC38939B10CF9EA13237AA1F6C37B1AC84904C5A12A81FA0
 
 # Timeline
 
 07/23/2018 - Vulnerability reported
+
 08/14/2018 - Initial response from ASUS
+
 10/21/2018 - 90 days has passed
+
 11/05/2018 - 15 days grace period has passed. Public disclosure
 
 # Resources
