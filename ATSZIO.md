@@ -145,8 +145,11 @@ Remove vulnerable product from download site[6][7], or remove ATSZIO Driver from
  
 
 07/23/2018 - Vulnerability reported
+
 08/14/2018 - Initial response from ASUS
+
 10/21/2018 - 90 days has passed
+
 11/05/2018 - 15 days grace period has passed. Public disclosure
 
  
