@@ -98,8 +98,13 @@ driver7.sys (x86 without DbgPrint) SHA256: 42851A01469BA97CDC38939B10CF9EA13237A
 # Resources
 
 [1] https://www.asus.com/Laptops/ROG-G752VS/HelpDesk_Download/
-[2] Not public disclosed at present.
+
+[2] https://github.com/LimiQS/AsusDriversPrivEscala/blob/master/ATSZIO.md
+
 [3] https://www.exploit-db.com/exploits/39785/
+
 [4] https://github.com/hatRiot/bugs/blob/master/dell-support-assist/dell-sa-lpe.cpp 
+
 [5] http://www.kernelmode.info/forum/viewtopic.php?f=11&t=3322
+
 [6] https://www.exploit-db.com/exploits/8322/
